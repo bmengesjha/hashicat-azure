@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
  <!-- BEGIN -->
   <center><img src="http://www.placebear.com/${500}/${500}"></img></center>
   <center><h2>Which Bear is Best!</h2></center>
-  Welcome to ${Lebowski's}'s app. Replace this text with your own. 
+  Welcome to ${Lebowski's}'s app. Mike changed this file! 
   <!-- END -->
   
   </div>
